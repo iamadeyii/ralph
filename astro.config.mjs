@@ -6,6 +6,7 @@ import image from "@astrojs/image";
 export default defineConfig({
   integrations: [
     image({
+      base: 'public',
       serviceEntryPoint: "@astrojs/image/sharp",
     }),
   ],
