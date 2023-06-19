@@ -44,4 +44,4 @@ Hi,
  
 My passion is tech and its continuous evolution, so  I constantly seek out projects that challenge and inspire me. Some of which are meant to automate my life, some are meant to express my obsession with the ecosystem and the rest are just me breaking stuffs. As a collaborative team player, I thrive in environments that encourage knowledge sharing and collaboration.
 
-I'm always open to the opportunity to discuss, share ideas and contribute. I'm interested in music, open source, comics, studying and experimenting.
+I'm always open to the opportunity to discuss, share ideas and contribute. I'm interested in music, open source, comics, writing and experimenting.
