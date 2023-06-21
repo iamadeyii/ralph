@@ -20,4 +20,5 @@ type Connection =
   | "league-of-legends"
   | "riot-games"
   | "twitch"
-  | "youtube";
+  | "youtube"
+  | "web";

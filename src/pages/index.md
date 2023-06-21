@@ -32,9 +32,9 @@ connections:
     username: "iamadeyii"
     url: "https://github.com/iamadeyii"
     verified: true
-  medium:
+  web:
     username: "iamadeyii"
-    url: "https://www.medium.com/@iam_adeyii"
+    url: "https://iamadeyii.com"
     verified: true
 ---
 
